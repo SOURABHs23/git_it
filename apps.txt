@@ -1,1 +1,1 @@
-app
+fav_movie
